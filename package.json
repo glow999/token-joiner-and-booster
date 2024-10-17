@@ -1,7 +1,8 @@
+
 {
-  "name": "server-joiner",
+  "name": "M1's market",
   "version": "1.0.0",
-  "description": "",
+  "description": "Made by m1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +17,6 @@
     "gradient-string": "^2.0.2",
     "https-proxy-agent": "5.0.1",
     "proxy-agent": "^6.2.1"
+  
   }
 }
